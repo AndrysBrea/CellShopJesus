@@ -3,9 +3,16 @@
     font-size: 400;
 }
 .second {
-    color: rgb(245, 0, 0);
+    color: rgb(12, 12, 12);
 }
 
 .samsunga21s {
     width: 50%;
+    margin-right: 400px;
+    padding-right: 100px;
+}
+
+.imagen1 {
+    border: 5px solid ;
+    color: rgb(0, 255, 255);
 }
