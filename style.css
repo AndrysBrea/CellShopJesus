@@ -1,4 +1,7 @@
-.cabeza {border: black 2px solid;}
+.cabeza { 
+    font-weight: 10;
+    font-size: 100px;
+}
 
 .firts {
     color: rgb(0, 0, 0);
